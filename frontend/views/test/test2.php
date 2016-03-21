@@ -1,2 +1,1 @@
-<?php echo "poo"; ?>
-<?php echo $name; ?>
+<?php echo $info; ?>
